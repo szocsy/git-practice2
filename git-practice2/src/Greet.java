@@ -1,5 +1,7 @@
 public class Greet {
-    public void greet(String name, String sport){
-        System.out.println(name + " "+ sport);
+
+    public void greet(){
+        System.out.println("Greetings for the parameter");
+
     }
 }
