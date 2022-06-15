@@ -1,6 +1,6 @@
 public class Cheer {
 
-    public void cheer() {
-        System.out.println("Riskies and the cats (and the failed)");
+    public void cheer(String txt) {
+        System.out.println("Riskies and the cats (and the failed)" + txt);
     }
 }
