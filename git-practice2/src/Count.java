@@ -1,5 +1,5 @@
 public class Count {
-    public void Count() {
-        System.out.println("June");
+    public void Count(String txt) {
+        System.out.println("Counting the countless" + txt);
     }
 }
